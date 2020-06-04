@@ -6,19 +6,19 @@
 translate french adine1_b66a50f0:
 
     # m "I remembered that Adine had told me that the café did deliveries as well, and not having anything else better to do, I figured I should try it out. I made my order with a quick phone call, and it wasn't long before the doorbell rang."
-    m "﻿Je me rapelle que Adine m'a dit que le café fait aussi des livraisons, et avoir rien de mieux à faire, je me suis dit que je devrais essayer. J'ai pris ma commande avec un appel rapide au téléphone, et ce n'était pas long avant que la sonette de porte sonne."
+    m "﻿Je me rapelle qu'Adine m'avait dit que le café faisait aussi des livraisons, et n'ayant rien de mieux à faire, je me suis dit que je devrais essayer. J'ai pris ma commande avec un appel rapide au téléphone, et ce ne fut pas très long avant que la porte sonne."
 
 # game/adine1.rpy:32
 translate french adine1_d60c0822:
 
     # c "(Well, that was quick.)"
-    c "(dit donc, c'était rapide.)"
+    c "(Et bien, c'était rapide.)"
 
 # game/adine1.rpy:39
 translate french adine1_245dbdc1:
 
     # m "It just so happened that Adine herself stood in the doorway, dripping wet and with damp containers in her grip."
-    m "Il se trouve que Adine elle même ce tenait en avant de la porte, toute mouillé avec les contenants humides dans sa poignée."
+    m "Il se trouve qu'Adine elle même se tenait devant la porte, toute mouillé en tenant les récipients humides dans sa patte."
 
 # game/adine1.rpy:61
 translate french adine1_c084e644:
@@ -36,7 +36,7 @@ translate french adine1_2ec83f33:
 translate french adine1_ba9efa2f:
 
     # c "They changed their minds, so I suppose you'll be stuck with me for a little while longer."
-    c "Ils ont changé d'idée alors je suppose que tu est pris avec moi pour un peu plus longtemps."
+    c "Ils ont changé d'avis, alors je suppose que tu seras coincée avec moi un peu plus longtemps."
 
 # game/adine1.rpy:67
 translate french adine1_c84f55d5:
@@ -48,13 +48,13 @@ translate french adine1_c84f55d5:
 translate french adine1_796a7e39:
 
     # Ad "Oh, it's you again."
-    Ad "Oh, c'est toi encore."
+    Ad "Oh, c'est encore toi."
 
 # game/adine1.rpy:79
 translate french adine1_7c3e6087:
 
     # Ad "I do remember your name, though. It was... [player_name], right?"
-    Ad "Et je me rapelle de ton nom, cépendant. C'était... [player_name], correct?"
+    Ad "Je me rappelle de ton nom, cependant. C'était... [player_name], c'est ça?"
 
 # game/adine1.rpy:80
 translate french adine1_56d0beb3:
@@ -66,7 +66,7 @@ translate french adine1_56d0beb3:
 translate french adine1_9d2d1212:
 
     # Ad "Shouldn't come as a surprise, considering you knew I deliver for the café."
-    Ad "Ca ne devrait pas être une surprise, considerant que tu savait que je délivrait pour le café."
+    Ad "Ça ne devrait pas être une surprise, étant donné que tu savait que je livrais pour le café."
 
 # game/adine1.rpy:85
 translate french adine1_56e644c8:
@@ -78,31 +78,31 @@ translate french adine1_56e644c8:
 translate french adine1_1cc03842:
 
     # Ad "Here's your order. Sorry, it got a little wet, but it should still be okay."
-    Ad "Voilà votre commande. Désolé, il est un peu mouillée, mais il devrait encore être correct."
+    Ad "Voilà votre commande. Désolé, elle est un peu mouillée, mais ça devrais encore être bon."
 
 # game/adine1.rpy:94
 translate french adine1choice1_e6f972e8:
 
     # Ad "It's raining pretty heavily outside, that's all."
-    Ad "Il pleut beaucoup dehors, c'est tout."
+    Ad "Il pleut assez fort dehors, c'est tout."
 
 # game/adine1.rpy:100
 translate french adine1choice1_9a5ca63d:
 
     # Ad "Thanks, I was just about to ask you if I could stay for a little while. This was actually my last delivery for the day, and I live on the other side of town."
-    Ad "Merci, j'allait justement demander si je pourrait rester un petit moment. c'était présentement ma dernière livraison de la journée et je vit à l'autre bout de la ville."
+    Ad "Merci, j'allais justement demander si je pourrais rester un petit moment. C'était ma dernière livraison de la journée et je vit à l'autre bout de la ville."
 
 # game/adine1.rpy:101
 translate french adine1choice1_be0b9602:
 
     # c "Of course, I couldn't let you fly back when it's this ugly outside."
-    c "bien sûr, je ne peut pas te laisser voler chez toi lorsque qu'il fait si mauvais dehors."
+    c "Bien sûr, je ne peux pas te laisser voler chez toi alors qu'il fait si mauvais dehors."
 
 # game/adine1.rpy:105
 translate french adine1choice1_8c2647a6:
 
     # m "I was just about to close the door in her face again when she suddenly spoke up."
-    m "j'alait justement fermer la porte encore quand soudainement elle à pris la parole."
+    m "J'alais encore lui fermer la porte au nez quand soudainement elle à pris la parole."
 
 # game/adine1.rpy:107
 translate french adine1choice1_db4b5fa0:
@@ -114,13 +114,13 @@ translate french adine1choice1_db4b5fa0:
 translate french adine1choice1_0f173ebb:
 
     # c "What is it?"
-    c "Qu'est ce qui à?"
+    c "Qu'est ce qu'il y a?"
 
 # game/adine1.rpy:110
 translate french adine1choice1_f8bbc1ff:
 
     # Ad "Do you think I could come in for a few minutes? It's raining pretty heavily outside, and this was my last delivery for the day. I actually live on the other side of town, and I don't really want to fly back in the rain."
-    Ad "Pense tu que je peut entrer pour quelques minutes? Il pleut assez fort dehors et c'était ma dernière livraison de la journée. Je vit à l'autre bout de la ville et je ne veut pas voler chez moi sous la pluie."
+    Ad "Est-ce tu penses que je peux rentrer quelques minutes? Il pleut assez fort dehors et c'était ma dernière livraison de la journée. Je vis à l'autre bout de la ville et je ne veut pas voler chez moi sous la pluie."
 
 # game/adine1.rpy:117
 translate french menadine_b2d97902:
@@ -138,19 +138,19 @@ translate french menadine_76b2fe88:
 translate french menadine_544afc3c:
 
     # n "Without another word, I closed the door, with nothing now separating me from the delights of the slightly soggy food before me."
-    n "Sans un mot de plus, J'ai fermé la porte, avec maintenant rien séparant moi des délices de la nourriture légerement détrempé en avant de moi."
+    n "Sans un mot de plus, J'ai fermé la porte, avec à présent rien qui ne me séparait des délices de ma nourriture légèrement détrempée."
 
 # game/adine1.rpy:129
 translate french menadine_a00b0992:
 
     # n "I opened my container in anticipation, but what I found inside wasn't at all what I was expecting. It was noodles, with chicken and some sort of sauce."
-    n "J'ouvre mon contenant avec anticipation, mais je n'expectait pas ce qu'il y avait à l'intérieur. C'était des nouilles, avec du poulet et une sorte de sauce."
+    n "J'ouvrais mon récipient avec anticipation, mais ce qu'il contenait n'était pas du tout ce à quoi je m'attendais. C'était des nouilles, avec du poulet et une sorte de sauce."
 
 # game/adine1.rpy:130
 translate french menadine_07803e25:
 
     # n "The problem was, I hadn't ordered noodles. I rushed to the door, wondering what had gone wrong and what I had done to deserve this, but it was too late."
-    n "Le problème est, Que je n'avait pas commandé de nouilles. Je cours à la porte, Demandant ou était l'erreur et qu'est ce que j'avait fait pour mérité cela, mais il était trop tard."
+    n "Le problèmen c'était que je n'avais pas commandé de nouilles. Je courus à la porte, me demandant ce qui s'était passé et ce que j'avais fait pour mériter ça, mais il était trop tard."
 
 # game/adine1.rpy:131
 translate french menadine_54475cd1:
@@ -168,13 +168,13 @@ translate french menadine_b01b710e:
 translate french menadine_68d0fcf9:
 
     # Ad "Come on, don't make me fly in the rain like this. Please?"
-    Ad "Allez, ne me fait pas voler dans la pluie comme cela. S'il te plaît?"
+    Ad "Allez, ne me fait pas voler sous la pluie comme ça. S'il te plaît?"
 
 # game/adine1.rpy:188
 translate french _call_skiptut_10_0ff5f677:
 
     # s "My records indicate you have already experienced this scene in a satisfactory manner. Would you like to skip to the end?"
-    s "Mes données indique que tu as déjà subit l'expérience de cette scène d'une manière satisfaisante. Voulez vous sauter à la fin?"
+    s "Mes données indiquent que vous avez déjà vécu cette séquence d'une manière satisfaisante. Désirez-vous passer cette scène?"
 
 # game/adine1.rpy:196
 translate french _call_skiptut_10_eee83226:
@@ -186,37 +186,37 @@ translate french _call_skiptut_10_eee83226:
 translate french _call_skiptut_10_e7709aa0:
 
     # s "So, it turns out you've seen this before. Either you could watch this again, or we could save some time and just skip to the end of this scene."
-    s "Alors, il parait que vous avez vu cela auparavant. Soit vous pouvez regarder encore, oû ont peut sauver du temps et sauter jusqu'à la fin de la scène."
+    s "Il semblerait que vous ayez déjà vu cela auparavant. Vous pouvez le revoir, ou alors on pourrait gagner un peu de temps et sauter directement à la sélection des scènes."
 
 # game/adine1.rpy:218
 translate french _call_skiptut_10_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/adine1.rpy:251
 translate french _call_skipcheck_10_0054b77b:
 
     # s "As you wish.{cps=2}..{/cps}{w=1.0}{nw}"
-    s "Comme vous le souhaitez.{cps=2}..{/cps}{w=1.0}{nw}"
+    s "Comme vous voulez.{cps=2}..{/cps}{w=1.0}{nw}"
 
 # game/adine1.rpy:254
 translate french _call_skipcheck_10_e53dbbb3:
 
     # c "Feel right at home. I better eat this before it gets cold."
-    c "On se sent bien chez soi. Je serait de manger cela avant que ca devienne froid."
+    c "Fais comme chez toi. Je ferais mieux de manger ça avant que ça refroidisse."
 
 # game/adine1.rpy:257
 translate french _call_skipcheck_10_f212dc62:
 
     # m "I sat down at the table and started eating my food while Adine decided to take a seat opposite of myself."
-    m "Je m'assis à la table et je commence à manger pendant que Adine décide de s'assir sur un siège opposé du miens."
+    m "Je m'assis à la table et je commençai à manger alors qu'Adine décidais de s'asseoir en face de moi."
 
 # game/adine1.rpy:260
 translate french _call_skipcheck_10_58b7831b:
 
     # Ad "Do you like it?"
-    Ad "Est ce que tu aime?"
+    Ad "Est-ce que tu aimes bien?"
 
 # game/adine1.rpy:263
 translate french _call_skipcheck_10_d2241b6c:
@@ -228,31 +228,31 @@ translate french _call_skipcheck_10_d2241b6c:
 translate french _call_skipcheck_10_d9534b58:
 
     # c "Yeah, it's actually quite good."
-    c "Ouais, c'est pas mal bon."
+    c "Ouais, c'est plutôt bon."
 
 # game/adine1.rpy:267
 translate french _call_skipcheck_10_502163a4:
 
     # Ad "Do you have something similar where you come from?"
-    Ad "Avez-vous quelque chose de semblable la ou tu viens?"
+    Ad "Est-ce que tu as quelque chose de similaire là d'où tu viens?"
 
 # game/adine1.rpy:268
 translate french _call_skipcheck_10_a47ef0d2:
 
     # c "We do. As a matter of fact, it's almost scary how close it is to what we have back home."
-    c "Oui. En réalité, c'est presque effrayant comment proche les choses ici comparé à chez moi."
+    c "Oui. En réalité, c'est presque effrayant comment les choses ici sont proches de ce que'il y a chez moi."
 
 # game/adine1.rpy:272
 translate french _call_skipcheck_10_1571c3b3:
 
     # Ad "Really? Maybe we all just share a similar taste."
-    Ad "Vraiment? Peut ètre on a tous des goût similaire."
+    Ad "Vraiment? Peut-être qu'on a tous des goût similaire."
 
 # game/adine1.rpy:278
 translate french _call_skipcheck_10_f57b79ce:
 
     # Ad "At least, that's what I think."
-    Ad "Au moins, c'est ce que je pense."
+    Ad "Du moins, c'est ce que je pense."
 
 # game/adine1.rpy:282
 translate french _call_skipcheck_10_5727fe5d:
@@ -264,7 +264,7 @@ translate french _call_skipcheck_10_5727fe5d:
 translate french _call_skipcheck_10_e241a15e:
 
     # c "Well, don't you trace your origins back to humans in some way? I know what kind of reputation we have in your culture."
-    c "Bien, ne trace tu pas tes origines au humains d'une manière ou d'une autre? Je sais quelle genre de réputation ont a sur votre culture."
+    c "Et bien, ne retraces-tu pas tes origines aux humains d'une manière ou d'une autre? Je sais quelle genre de réputation on a dans votre culture."
 
 # game/adine1.rpy:285
 translate french _call_skipcheck_10_629d7ddb:
@@ -276,55 +276,55 @@ translate french _call_skipcheck_10_629d7ddb:
 translate french _call_skipcheck_10_45ce6c6a:
 
     # c "Let me ask you this: Where do you think the portal you found came from? Who built it?"
-    c "Laisse moi te poser une question: Ou pense tu que le portail viens de? Qui la construit?"
+    c "Laisse moi te poser une question: D'où penses-tu que le portail que vous avez trouvé vienne? Qui l'a construit?"
 
 # game/adine1.rpy:288
 translate french _call_skipcheck_10_ef636fcf:
 
     # Ad "Humans did it, of course."
-    Ad "Les humains l'ont fait, bien sur."
+    Ad "Les humains l'ont fait, bien sûr."
 
 # game/adine1.rpy:290
 translate french _call_skipcheck_10_4ab51b92:
 
     # c "Exactly. If you believe humans had something to do with an artifact created who knows how many years ago, it wouldn't be a stretch to think they could have also influenced you in other ways."
-    c "Exactement. si tu crois que les humains ont de quoi à faire avec cet artifacte crée qui sait combien d'année passé, ce ne serait pas exageré de dire qu'ils aurait pu vous influencé d'une certaine manière."
+    c "Exactement. Si vous croyez que les humains ont quelque chose à faire avec un artéfact crée il y a on se pas combien d'années, ce ne serait pas exagéré de dire qu'ils aurait pu vous influencer d'une certaine manière."
 
 # game/adine1.rpy:292
 translate french _call_skipcheck_10_9fafc86f:
 
     # Ad "Even something as simple as this dish? I like that idea."
-    Ad "Même quelque chose de simple comme ce plât? J'aime cette idée."
+    Ad "Même quelque chose d'aussi simple ce plât? J'aime bien cette idée."
 
 # game/adine1.rpy:299
 translate french _call_skipcheck_10_24fbdd31:
 
     # Ad "I thought you just did."
-    Ad "Je pensais que vous l'avez fait."
+    Ad "Je pensais que vous l'aviez fait."
 
 # game/adine1.rpy:302
 translate french _call_skipcheck_10_a0052a82:
 
     # c "So, what do you do when you aren't working in the restaurant? Do you have a family?"
-    c "Alors, que fait tu quand tu ne travaille pas au restaurant? As tu une famille?"
+    c "Alors, que fais-tu quand tu ne travailles pas au restaurant? As-tu une famille?"
 
 # game/adine1.rpy:303
 translate french _call_skipcheck_10_558a112a:
 
     # Ad "Well, most of the time I take care of my kids."
-    Ad "Bien, la plupart du temps je m'occupe de mes enfants."
+    Ad "Et bien, la plupart du temps je m'occupe de mes enfants."
 
 # game/adine1.rpy:304
 translate french _call_skipcheck_10_77d64a46:
 
     # c "Oh, nice. How many children do you have?"
-    c "Oh, bien. Combien as tu d'enfant?"
+    c "Oh, c'est bien. Combien as-tu d'enfant?"
 
 # game/adine1.rpy:305
 translate french _call_skipcheck_10_2463bcdc:
 
     # Ad "They aren't really my children, per se. I just take care of them."
-    Ad "En fait ce ne sont pas vraiment mes enfants. Je m'occupe juste d'eux."
+    Ad "En fait ce ne sont pas mes enfants à proprement parler. Je m'occupe juste d'eux."
 
 # game/adine1.rpy:306
 translate french _call_skipcheck_10_6ab075ea:
@@ -336,19 +336,19 @@ translate french _call_skipcheck_10_6ab075ea:
 translate french _call_skipcheck_10_4252207b:
 
     # Ad "Not quite. These are orphaned children I'm talking about. I just volunteer to spend some time with them, so I'm really more of a babysitter and teacher all in one."
-    Ad "Pas tout à fait. Je parle des jeunes orphelins. Je suis volontaire pour prendre du temps avec eux, alors je suis plus une gardienne et enseignante tout en un."
+    Ad "Pas tout à fait. Je parle de jeunes orphelins. Je me porte juste volontaire pour passer du temps avec eux, alors je suis plutôt une babysitter et enseignante tout-en-un."
 
 # game/adine1.rpy:309
 translate french _call_skipcheck_10_719209ef:
 
     # Ad "I can't really take them in and care for them 24/7 like a proper parent would. I'd love to, but I work far too much to be a single parent."
-    Ad "Je ne peut pas vraiment m'occuper d'eux 24 heures sur 7 comme un vrai parent pourrait. J'aimerais tellement mais je travaille beaucoup trop pour ètre un parent unique."
+    Ad "Je ne peut pas vraiment m'occuper d'eux 24/7 comme un vrai parent le pourrait. J'aimerais tellement, mais je travaille beaucoup trop pour être un parent unique."
 
 # game/adine1.rpy:310
 translate french _call_skipcheck_10_6dae616b:
 
     # Ad "With the amount of time I spend at the restaurant, I don't think the kids would be any better off, so I just help out whenever I can."
-    Ad "Avec le temps que je prend au restaurant, je ne pense pas que les enfants serait mieux, alors j'aide juste quand je peut."
+    Ad "Avec le temps que je prend au restaurant, je ne pense pas que les enfants serait mieux, alors j'aide juste quand je peux."
 
 # game/adine1.rpy:311
 translate french _call_skipcheck_10_8a56387f:
@@ -360,19 +360,19 @@ translate french _call_skipcheck_10_8a56387f:
 translate french _call_skipcheck_10_03b324fd:
 
     # Ad "Thanks. These kids already didn't get a very good hand in life. I just thought that if I can make even a small difference for them it'd be worth it."
-    Ad "Merci. Ces enfants n'ont déjà pas eu une belle vie en mais. J'ai juste pensé que si je peut faire même une petite différence pour eux ca vaudera le coup."
+    Ad "Merci. Ces enfants n'ont déjà pas été gâté par la vite. J'ai juste pensé que si je peut faire même une petite différence pour eux ca vaudrais le coup."
 
 # game/adine1.rpy:314
 translate french _call_skipcheck_10_d29d4197:
 
     # c "I see. What about hobbies? Do you have any?"
-    c "Je vois. Et les passe-temps? En as tu?"
+    c "Je vois. Et les passe-temps? En as-tu?"
 
 # game/adine1.rpy:318
 translate french _call_skipcheck_10_ebf1fe4b:
 
     # Ad "Can I ask a question for a change?"
-    Ad "Est-ce que je peut te poser une question pour changer?"
+    Ad "Est-ce que je peux te poser une question pour changer?"
 
 # game/adine1.rpy:328
 translate french _call_skipcheck_10_f8d5feb5:
@@ -384,7 +384,7 @@ translate french _call_skipcheck_10_f8d5feb5:
 translate french _call_skipcheck_10_ac95ba08:
 
     # c "Just kidding. Go ahead."
-    c "Je rigole. Vas y."
+    c "Je rigole. Vas-y."
 
 # game/adine1.rpy:335
 translate french _call_skipcheck_10_cdd3e6f5:
@@ -396,31 +396,31 @@ translate french _call_skipcheck_10_cdd3e6f5:
 translate french _call_skipcheck_10_75906cf7:
 
     # Ad "Well, I don't really know much about you. Actually, I'm not sure if there is anyone here who does."
-    Ad "Bien, je ne sais pas grand chose sur toi. Actuellement, je ne suis pas certain si il à quelq'un ici qui te connait."
+    Ad "Bien, je ne sais pas grand chose sur toi. En fait, je ne suis pas certain s'il à quelq'un ici qui te connaisse."
 
 # game/adine1.rpy:339
 translate french _call_skipcheck_10_41444a40:
 
     # c "What would you like to know?"
-    c "Qu'est-ce que tu voudrait savoir?"
+    c "Qu'est-ce que tu voudrais savoir?"
 
 # game/adine1.rpy:341
 translate french _call_skipcheck_10_0dce8ee6:
 
     # Ad "What did you do before you came here?"
-    Ad "Que faisait tu avant que tu vienne ici?"
+    Ad "Que faisais-tu avant que tu vienne ici?"
 
 # game/adine1.rpy:346
 translate french _call_skipcheck_10_52e199a5:
 
     # c "Nothing special, really. I mean, I have my degrees, but this is the first time I did something that was actually related to them. The work I did previously was just to keep afloat."
-    c "Rien de spécial, vraiment. Je veut dire, j'ai mon dîplome, mais c'est la première fois que que je fais de quoi relié à eux. le travail que je faisait auparavant était juste pour me garder occupé."
+    c "Rien de spécial, vraiment. Je veut dire, j'ai mes dîplomes, mais c'est la première fois que je fais quelque chose qui y soit liés. Le travail que je faisais auparavant était juste pour joindre les deux bouts."
 
 # game/adine1.rpy:348
 translate french _call_skipcheck_10_4b7f20ab:
 
     # Ad "I know what you mean."
-    Ad "Je sais ce que tu veut dire."
+    Ad "Je vois ce que tu veux dire."
 
 # game/adine1.rpy:353
 translate french _call_skipcheck_10_02e1a99e:
@@ -432,13 +432,13 @@ translate french _call_skipcheck_10_02e1a99e:
 translate french _call_skipcheck_10_31f04825:
 
     # Ad "Nun? What do you mean?"
-    Ad "Rien? Que veut tu dire?"
+    Ad "Rien? Que veux-tu dire?"
 
 # game/adine1.rpy:355
 translate french _call_skipcheck_10_939a58e1:
 
     # c "I mean that it's {i}nun{/i} of your business."
-    c "Je veut dire que ce n'est {i}rien{/i} de tes affaires."
+    c "Je veut dire que ce n'est {i}rien{/i} qui te concerne."
 
 # game/adine1.rpy:357
 translate french _call_skipcheck_10_91cd4cae:
@@ -450,13 +450,13 @@ translate french _call_skipcheck_10_91cd4cae:
 translate french _call_skipcheck_10_d049fb42:
 
     # Ad "Of course it is."
-    Ad "Bien sur que si."
+    Ad "Bien sur que ça me concerne."
 
 # game/adine1.rpy:366
 translate french _call_skipcheck_10_0cc7643e:
 
     # c "I suppose it's my turn again, so tell me about your hobbies."
-    c "Je suppose que c'est mon tour encore, alors parle moi de tes passe temps."
+    c "Je suppose que c'est mon encore mon tour, alors parle moi de tes passe-temps."
 
 # game/adine1.rpy:367
 translate french _call_skipcheck_10_cc546db3:
@@ -474,13 +474,13 @@ translate french _call_skipcheck_10_37f5b9ba:
 translate french _call_skipcheck_10_4b4db401:
 
     # Ad "Well, not {i}just{/i} flying."
-    Ad "Bien, pas {i}juste{/i} voler."
+    Ad "Et bien, pas {i}juste{/i} voler."
 
 # game/adine1.rpy:372
 translate french _call_skipcheck_10_43ec0d7d:
 
     # Ad "I do Aerobatics, or stunt flying. I've been doing that on and off for a couple of years now."
-    Ad "Je fait des acrobaties aérienne, ou des vol de cascades. Je fait ca de tant en tant depuis quelques année maintenant."
+    Ad "Je fait des voltiges, ou des acrobaties aériennes. Je fait ca de temps en temps depuis quelques année maintenant."
 
 # game/adine1.rpy:379
 translate french _call_skipcheck_10_f106bf6f:
@@ -492,7 +492,7 @@ translate french _call_skipcheck_10_f106bf6f:
 translate french _call_skipcheck_10_a846bbc7:
 
     # Ad "That's what hobbies are for, though, right? It's just something I enjoy doing."
-    Ad "C'est ce q'un passe temps est en fait, n'est ce pas? C'est juste quelque chose que j'aime faire."
+    Ad "C'est à ça que servent les passe-temps, n'est ce pas? C'est juste quelque chose que j'aime faire."
 
 # game/adine1.rpy:390
 translate french _call_skipcheck_10_abbb67c9:
