@@ -18,7 +18,7 @@ translate french adine1_d60c0822:
 translate french adine1_245dbdc1:
 
     # m "It just so happened that Adine herself stood in the doorway, dripping wet and with damp containers in her grip."
-    m "Il se trouve qu'Adine elle même se tenait devant la porte, toute mouillé en tenant les récipients humides dans sa patte."
+    m "Il se trouve qu'Adine elle même se tenait devant la porte, toute mouillé en tenant les récipients trempés dans sa patte."
 
 # game/adine1.rpy:61
 translate french adine1_c084e644:
@@ -498,73 +498,73 @@ translate french _call_skipcheck_10_a846bbc7:
 translate french _call_skipcheck_10_abbb67c9:
 
     # Ad "It's the practice of doing flying maneuvers like rolls, spins or loops."
-    Ad "C'est la pratique de faire des maneuvres de vol comme des roulement, pivoter ou des boucles."
+    Ad "C'est la pratique de faire des manoeuvres de vol comme des roulement, des rotations ou des boucles."
 
 # game/adine1.rpy:392
 translate french _call_skipcheck_10_3a20ab9d:
 
     # Ad "I'm actually hoping to be part of a competition in some time."
-    Ad "J'espère faire partie d'une compétition dans un moment."
+    Ad "J'espère faire partie d'une compétition à un moment."
 
 # game/adine1.rpy:399
 translate french _call_skipcheck_10_e2d25ad9:
 
     # Ad "Just because I can fly in the rain doesn't mean that I want to."
-    Ad "Juste parce que je peut voler sous la pluit ne veut pas dire que je veut."
+    Ad "Juste parce que je peux voler sous la pluie ne veut pas dire que j'en ai envie."
 
 # game/adine1.rpy:402
 translate french _call_skipcheck_10_a6751830:
 
     # Ad "That's what I'm trying to find out."
-    Ad "C'est ce j'essaie de découvrir."
+    Ad "C'est ce que j'essaie de découvrir."
 
 # game/adine1.rpy:406
 translate french _call_skipcheck_10_3a15203a:
 
     # Ad "I suppose that depends on whether you will still be here when it takes place. It's part of a festival we hold in this town every year."
-    Ad "Je suppose que ca dépends si tu va encore être ici quand sa ce déroule. C'est partie du festival qu'ont tiens à cette ville chaque année."
+    Ad "Je suppose que ça dépend de si tu seras encore là quand ça va se passer. Ça fait partie d'un festival qu'on fait tous les ans."
 
 # game/adine1.rpy:409
 translate french _call_skipcheck_10_410ee6b4:
 
     # Ad "Okay, since it is my turn again, well..."
-    Ad "D'accord, puisque c'est mon tour encore, bon..."
+    Ad "D'accord, puisque c'est encore mon tour, bon..."
 
 # game/adine1.rpy:411
 translate french _call_skipcheck_10_02d2db07:
 
     # Ad "This might be an unusual question, so... When they said it was a human that would be coming here, I kinda expected something a little different."
-    Ad "C'est peut ètre une question étrange, alors... Lorsque qu'ils ont dit que c'était un humain qui viens, je m'attendais à quelque chose d'un peu différent."
+    Ad "C'est peut ètre une question étrange, alors... Lorsque qu'ils ont dit que c'était un humain qui viendrait, je m'attendais à quelque chose d'un peu différent."
 
 # game/adine1.rpy:418
 translate french _call_skipcheck_10_9beac2da:
 
     # Ad "You know what I mean..."
-    Ad "Je sais ce que tu veut dire..."
+    Ad "Tu sais ce que je veux dire..."
 
 # game/adine1.rpy:424
 translate french _call_skipcheck_10_2f44ec25:
 
     # Ad "I'm not sure exactly, but they do say it was humans that made us who we are today. You don't seem so different from us, though."
-    Ad "Je ne sais pas exactement, mais c'est dit que ce sont les humains qui ont fait ce qu'on est aujourd'hui. Tu ne semble pas si différent de nous, par exemple."
+    Ad "Je ne suis pas vraiment sûr, mais on dit dit que ce sont les humains qui ont fait ce qu'on est aujourd'hui. Tu ne semble pas si différent de nous, cependant."
 
 # game/adine1.rpy:427
 translate french _call_skipcheck_10_53f42aeb:
 
     # c "I know. Remy told me about some of the commonly held beliefs here."
-    c "Je sais. Remy ma parlé de certaine croyance communes d'ici."
+    c "Je sais. Remy m'a parlé de certaines croyance communes ici."
 
 # game/adine1.rpy:430
 translate french _call_skipcheck_10_ac2a2159:
 
     # Ad "I mean, yeah, you do look different from us, but you're not really anything like some of the things that have been said about your kind."
-    Ad "Je veut dire, ouais, tu as l'air différent, mais tu n'est pas vraiment comme ce que l'ont dit sur votre espèce."
+    Ad "Je veux dire, ouais, tu as l'air différent, mais tu n'es pas vraiment comme ce que l'ont dit sur votre espèce."
 
 # game/adine1.rpy:431
 translate french _call_skipcheck_10_91928a3d:
 
     # c "I could say the same thing about you."
-    c "Je pourrait dire la même chose sur toi."
+    c "Je pourrai dire la même chose sur toi."
 
 # game/adine1.rpy:433
 translate french _call_skipcheck_10_c097ab55:
@@ -576,7 +576,7 @@ translate french _call_skipcheck_10_c097ab55:
 translate french _call_skipcheck_10_93f88486:
 
     # c "Yeah, we have plenty of myths about dragons."
-    c "Ouais, ont a plein de mythes sur les dragons."
+    c "Ouais, on a plein de mythes sur les dragons."
 
 # game/adine1.rpy:438
 translate french _call_skipcheck_10_8b9da41f:
@@ -588,61 +588,61 @@ translate french _call_skipcheck_10_8b9da41f:
 translate french _call_skipcheck_10_c21eb134:
 
     # c "There are just too many to list. Some of them good, some not so much."
-    c "Il en a juste beaucoup trop pour listé. Certain d'entre eux sont bon, d'autres pas si bien."
+    c "Il y en a juste beaucoup trop pour faire une liste. Certain d'entre eux sont bon, d'autres pas vraiment."
 
 # game/adine1.rpy:444
 translate french _call_skipcheck_10_8abc6d5e:
 
     # Ad "Sounds like what we have on you, actually. Now that I see one of you right in front of me, it's almost silly what some of the myths say."
-    Ad "Sonne comme ce que l'ont a sur vous, tout compte fait. Maintenait que j'en vois un en face de moi, c'est presque ridicule qu'est ce que certain des mythes dit."
+    Ad "Ça ressemble à ce qu'on a sur vous, en fait. Maintenait que je te vois devant moi, c'est presque ridicule ce que certains mythes dises."
 
 # game/adine1.rpy:452
 translate french _call_skipcheck_10_54e6a0c5:
 
     # c "Well, according to some, you are greedy, man-eating monsters, and also sometimes associated with evil and the apocalypse."
-    c "Bien, d'après certain, vous êtes des monstres avides, mangeur d'homme, et aussi parfois associé avec le démon et l'apocalypse."
+    c "Bien, d'après certains d'entre eux, vous êtes des monstres avides, mangeurs d'hommes, et aussi parfois associés au malin et à l'apocalypse."
 
 # game/adine1.rpy:454
 translate french _call_skipcheck_10_b7bc313e:
 
     # Ad "Well, that's not very nice."
-    Ad "Bien, ce n'est pas très gentil."
+    Ad "Et bien, ce n'est pas très gentil."
 
 # game/adine1.rpy:456
 translate french _call_skipcheck_10_fbe98f30:
 
     # Ad "Though to be fair, some of what we have about you isn't very nice, either."
-    Ad "Pour être juste, certains des choses qu'on a sur vous ne sont pas très gentil non plus."
+    Ad "Cependant pour être honnête, on a des choses sur vous qui ne sont pas très gentilles non plus."
 
 # game/adine1.rpy:458
 translate french _call_skipcheck_10_db56dd45:
 
     # c "Phew, good to know you aren't vicious monsters, then."
-    c "phew, bon à savoir que vous n'êtes pas des monstres vicieux alors."
+    c "Ouf, c'est bon à savoir que vous n'êtes pas des monstres vicieux alors."
 
 # game/adine1.rpy:459
 translate french _call_skipcheck_10_e5322ba8:
 
     # Ad "Oh, we can be vicious if we want to be. We just usually know better."
-    Ad "Oh, ont peut être vicieux si ont veut. Ont sait juste mieux d'habitude."
+    Ad "Oh, ont peut être vicieux si ont veut. C'est juste qu'on vaut mieux que ça."
 
 # game/adine1.rpy:465
 translate french _call_skipcheck_10_377987b8:
 
     # c "They are often cited as a symbol of power and strength, but also one of wisdom, possessing an intellect that has no equal. They are noble creatures, and their depictions enjoy an almost universal appeal."
-    c "Ils sont souvent cité comme un symbole de puissance et de force, mais aussi de sagesse, possédant un intellectuel sans égal. Ils sont de noble créatures et leur représentation bénéficient d'un attrait presque universelle."
+    c "Ils sont souvent cité comme un symbole de puissance et de force, mais aussi de sagesse, possédant un intellect sans égal. Ce sont de noble créatures et leur représentation bénéficient d'un attrait presque universel."
 
 # game/adine1.rpy:466
 translate french _call_skipcheck_10_d7e7b442:
 
     # Ad "I could get used to that, though it would be even nicer if it were all true."
-    Ad "Je pourrait m'y habituer, bien que ce serait encore mieux si tout serait vrai."
+    Ad "Je pourrais m'y habituer, bien que ce serait encore mieux si tout était vrai."
 
 # game/adine1.rpy:468
 translate french _call_skipcheck_10_9fd77ad2:
 
     # Ad "To be honest, I don't know if it's such a good idea to generalize like that - even if it's good things you're saying about us. We're all different, you know, and not all of us are nice."
-    Ad "Pour être honnête, je ne sais pas si c'est si tant une bonne idée de généraliser comme ca - même si c'est des bonnes choses que tu dit sur nous. Ont est tous différent, tu sait, et ce n'est pas tout le monde qui sont gentil."
+    Ad "Pour être honnête, je ne sais pas si c'est une bonne idée de généraliser comme ça - même si ce sont de bonnes choses que l'on dit sur nous. On est tous différent, tu sais, et nous ne sommes pas tous gentils."
 
 # game/adine1.rpy:470
 translate french _call_skipcheck_10_89aefe22:
@@ -654,19 +654,19 @@ translate french _call_skipcheck_10_89aefe22:
 translate french _call_skipcheck_10_c249e3f8:
 
     # Ad "But then, we have said many good things about your kind, too."
-    Ad "Mais alors, ont a dit beaucoup de bonnes choses à propos de vôtre espèce aussi."
+    Ad "Quand bien même, ont a dit beaucoup de bonnes choses à propos de vôtre espèce aussi."
 
 # game/adine1.rpy:476
 translate french _call_skipcheck_10_0eb9375b:
 
     # c "Well, no matter what you might think about humans, I can assure you that I am in no way special or supernatural."
-    c "Bien, peu importe ce que tu pense des humains, je peut t'assurer que je suis dans aucun cas spécial ou supernaturel."
+    c "En tout cas, peu importe ce que tu pense des humains, je peux t'assurer que je ne suis en aucun cas spécial ou surnaturel."
 
 # game/adine1.rpy:478
 translate french _call_skipcheck_10_a498f8f9:
 
     # Ad "I disagree with that."
-    Ad "Je suis en désaccord avec ca."
+    Ad "Je ne suis pas d'accord."
 
 # game/adine1.rpy:479
 translate french _call_skipcheck_10_4e5a4202:
@@ -678,61 +678,61 @@ translate french _call_skipcheck_10_4e5a4202:
 translate french _call_skipcheck_10_dc481bac:
 
     # Ad "You say that you aren't special, but just the fact that you're here with us right now is quite special to me and many others. Just try to see it the other way around."
-    Ad "Tu dit que tu n'est pas spécial, mais juste le fait que tu est ici avec nous tous de suite est assez spécial pour moi et beaucoup d'entre nous. Essaie juste de regarder d'un autre angle."
+    Ad "Tu dis que tu n'as rien de spécial, mais le simple fait que tu sois là avec nous est relativement spécial pour moi et beaucoup d'autres. Essaie juste de voir les choses différemment."
 
 # game/adine1.rpy:482
 translate french _call_skipcheck_10_488948a9:
 
     # c "You know, you have a good point."
-    c "Tu sait, tu a un bon point."
+    c "C'est vrai, tu as plutôt raison."
 
 # game/adine1.rpy:483
 translate french _call_skipcheck_10_161c79f2:
 
     # Ad "What were you thinking when you first heard about us?"
-    Ad "Que pensais tu quand tu as entendu parlé de nous?"
+    Ad "Qu'est-ce que tu pensais quand tu as entendu parler de nous pour la première fois?"
 
 # game/adine1.rpy:487
 translate french _call_skipcheck_10_22fb7d86:
 
     # c "I thought it was a joke. Of course, all of that changed once I came through the portal."
-    c "Je croyais que c'était une blague. Bien sur, tout a changé lorsque j'ai passé a travers du portail."
+    c "Je croyais que c'était une blague. Bien sur, tout a changé lorsque je suis arrivé par le portail."
 
 # game/adine1.rpy:489
 translate french _call_skipcheck_10_27b32db1:
 
     # Ad "See, having something you've only heard about in stories turn out to be real is quite special."
-    Ad "Tu vois, avoir quelque chose que tu as seulement entendue dans des histoires qui sont réelle après tout est assez spéciale."
+    Ad "Tu vois, quand quelque chose dont tu n'as entendu parler que dans des histoires se trouve être réel, c'est assez spécial."
 
 # game/adine1.rpy:496
 translate french _call_skipcheck_10_aaa0f5f8:
 
     # c "I wasn't sure what to think about it. That is, until I got here and was standing in front of one of you. And after that, I was just rendered speechless."
-    c "Je n'était pas certain quoi penser. C'était, jusqu'a ce que j'arrive ici et que je me tenait en avant d'un des vôtres. Et après ca, j'était juste bouche bée."
+    c "Je ne savais pas trop quoi en penser. C'était, celà dit, jusqu'a ce que j'arrive ici et que je me retrouve devant l'un d'entre vous. Et après ca, j'était juste bouche bée."
 
 # game/adine1.rpy:498
 translate french _call_skipcheck_10_c9851cf8:
 
     # Ad "Told you so. It was special for you, too!"
-    Ad "Je t'avait dit. C'était spécial pour toi aussi!"
+    Ad "Je te l'avait dit. C'était spécial pour toi aussi!"
 
 # game/adine1.rpy:506
 translate french _call_skipcheck_10_9cf84c2e:
 
     # c "I thought making a discovery like this was just awesome. Many people would love to have the opportunity I had by coming here."
-    c "Je pensait que faire une découverte de ce genre était juste impressionnant. Beaucoup de gens aurait adorer avoir l'opportunité que j'ai eu en venant ici."
+    c "Je pensais que faire une découverte de ce genre était juste génial. Beaucoup de gens auraient adoré avoir l'opportunité que j'ai eu en venant ici."
 
 # game/adine1.rpy:508
 translate french _call_skipcheck_10_821be8f1:
 
     # Ad "See, it's not so one-sided after all, so don't be surprised if some of us feel the same way."
-    Ad "Tu vois, ce n'est pas si unilatéral aprés tout, alors ne soit pas surpris si certain d'entre nous resent la même chose."
+    Ad "Tu vois, ce n'est pas si unilatéral aprés tout, alors ne soit pas surpris si certain d'entre nous resenttent la même chose."
 
 # game/adine1.rpy:514
 translate french _call_skipcheck_10_827a62d3:
 
     # c "And it's not just the discovery of you dragons. We found a portal to an entirely different world. We still haven't figured that one out."
-    c "Et ce n'est pas juste la découverte de vous les dragons. Ont a trouvé un portail vers un monde complètement différent. Ont n'a toujours pas encore compris celle là."
+    c "Et ce n'est pas juste la découverte de vous les dragons. On a trouvé un portail vers un monde complètement différent. On a toujours pas compris comment c'est possible."
 
 # game/adine1.rpy:515
 translate french _call_skipcheck_10_684b625c:
@@ -744,13 +744,13 @@ translate french _call_skipcheck_10_684b625c:
 translate french _call_skipcheck_10_5479d226:
 
     # c "I'm sure we'll find out soon enough."
-    c "Je suis sur qu'ont va le savoir assez tôt."
+    c "Je suis sûr qu'on va le savoir bien assez tôt."
 
 # game/adine1.rpy:520
 translate french _call_skipcheck_10_ef4c12fa:
 
     # Ad "By the way, interesting selection of books you have there. \"Draconic Desire\", \"Ixomen Sphere\" - are these yours?"
-    Ad "Au fait, sélection intéresante de livres que tu as la. \"Désire Draconique\", \"Sphere Ixomen\" - ils sont à toi?"
+    Ad "Au fait, c'est une sélection intéressante de livres que tu as là. \"Désir Draconique\", \"Sphère Ixomen\" - ils sont à toi?"
 
 # game/adine1.rpy:521
 translate french _call_skipcheck_10_304794b1:
