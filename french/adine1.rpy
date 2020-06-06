@@ -756,13 +756,13 @@ translate french _call_skipcheck_10_ef4c12fa:
 translate french _call_skipcheck_10_304794b1:
 
     # c "No, they were already here when I moved in."
-    c "Non, ils était déja ici lorsque j'ai enmménagé."
+    c "Non, ils étaient déja là quand j'ai emménagé."
 
 # game/adine1.rpy:525
 translate french _call_skipcheck_10_173c151b:
 
     # Ad "Have you read any of them?"
-    Ad "En as tu lu?"
+    Ad "En as-tu lu?"
 
 # game/adine1.rpy:526
 translate french _call_skipcheck_10_2ad87d8f:
@@ -774,13 +774,13 @@ translate french _call_skipcheck_10_2ad87d8f:
 translate french _call_skipcheck_10_8752fb4f:
 
     # Ad "How did you like it?"
-    Ad "Comment as tu trouvé?"
+    Ad "Comment l'as-tu trouvé?"
 
 # game/adine1.rpy:533
 translate french _call_skipcheck_10_26e8f868:
 
     # Ad "\"Nothing special\" is a good way to describe the entire series, actually."
-    Ad "\"Rien de spécial\" est une bonne manière de décrire la pleine série, réellement."
+    Ad "\"Rien de spécial\" est une bonne manière de décrire toute la série, en fait."
 
 # game/adine1.rpy:543
 translate french _call_skipcheck_10_43ebd9ef:
@@ -792,133 +792,133 @@ translate french _call_skipcheck_10_43ebd9ef:
 translate french _call_skipcheck_10_4f76bc1a:
 
     # Ad "I can see why."
-    Ad "Je peut voir pourquoi."
+    Ad "Je comprends pourquoi."
 
 # game/adine1.rpy:559
 translate french _call_skipcheck_10_a9cad82b:
 
     # Ad "Oh, you've got \"Price and Prayer\". You should totally read that one."
-    Ad "Oh, tu as \"Prix et Prière"\. Tu devrait totalement lire celui là."
+    Ad "Oh, tu as \"Prix et Prière"\. Tu devrais vraiment lire celui-là."
 
 # game/adine1.rpy:560
 translate french _call_skipcheck_10_d98d0cd8:
 
     # c "You think so? Why's that?"
-    c "Tu pense? Pourquoi ça?"
+    c "Tu penses? Pourquoi ça?"
 
 # game/adine1.rpy:561
 translate french _call_skipcheck_10_9df698e3:
 
     # Ad "It's not just an interesting story, it's based on true events. The author is so right when he says there's a lot we can learn from what happened back then."
-    Ad "Ce n'est pas juste une histoire intéresante, c'est basée sur des évenement vraies. L'auteur à tellement raison lorsque qu'il dit qu'il y a beaucoup qu'on peut en apprendre de ce qui c'est passé auparavant."
+    Ad "Ce n'est pas juste une histoire intéresante, c'est basée sur de vrais évènements. L'auteur à tellement raison lorsque qu'il dit qu'on a beaucoup à apprendre de ce qu'il s'est passé auparavant."
 
 # game/adine1.rpy:568
 translate french _call_skipcheck_10_089aa707:
 
     # Ad "It's more than just a book. I suppose it might not seem that important to someone who doesn't live here, though."
-    Ad "C'est plus qu'un livre. Bien que, je suppose que ce n'est peut ètre pas si important pour quelqu'un qui ne vit pas ici."
+    Ad "C'est plus qu'un livre. Quoi que, je suppose que ce n'est peut-être pas si important pour quelqu'un qui ne vit pas ici."
 
 # game/adine1.rpy:573
 translate french _call_skipcheck_10_98d1aad3:
 
     # Ad "Let me know when you do. I'd be interested in hearing what you have to say about it."
-    Ad "Laisse moi savoir quand tu le lis. Je serait intéresé d'entendre ce que tu as à dire."
+    Ad "Laisse moi savoir quand tu le liras. Je serais intéresée d'entendre ce que tu as à en dire."
 
 # game/adine1.rpy:578
 translate french _call_skipcheck_10_4b7f20ab_1:
 
     # Ad "I know what you mean."
-    Ad "Je sais ce que tu dire."
+    Ad "Je vois ce que tu veux dire."
 
 # game/adine1.rpy:581
 translate french _call_skipcheck_10_9e9eaf83:
 
     # Ad "Alright, since you asked about my family earlier, I'm going to do the same thing. Is there a Mr. or Mrs. [player_name] back home waiting for you?"
-    Ad "D'accord, depuis que tu a demandé à propos de ma famille plus tôt, je vais faire la même chose. Il y a un monsieur ou madame [player_name] qui t'attend chez toi?"
+    Ad "D'accord, puisque que tu a demandé à propos de ma famille plus tôt, je vais faire la même chose. Est-ce qu'il y a un M. ou Mme. [player_name] qui t'attend chez toi?"
 
 # game/adine1.rpy:582
 translate french _call_skipcheck_10_a26d4342:
 
     # c "No, can't say there is."
-    c "Non, je ne peut pas dire que c'est le cas."
+    c "Non, je ne peux pas dire que c'est le cas."
 
 # game/adine1.rpy:584
 translate french _call_skipcheck_10_d16f87c9:
 
     # Ad "How about a potential Mr. or Mrs. [player_name], then? Are you looking to date anyone?"
-    Ad "Que dit tu d'un monsieur ou madame [player_name] potentiel alors? cherche tu à sortir avec quelqu'un?"
+    Ad "Pourquoi pas un potentiel M. ou Mme. [player_name] alors? Est-ce que tu aimerais sortir avec quelqu'un?"
 
 # game/adine1.rpy:591
 translate french _call_skipcheck_10_02b24bc2:
 
     # Ad "Come on, tell me!"
-    Ad "Allez, dit moi!"
+    Ad "Allez, dis moi!"
 
 # game/adine1.rpy:595
 translate french _call_skipcheck_10_75d20bbd:
 
     # Ad "I see. Anyone on your radar, then? Someone you think is attractive?"
-    Ad "Je vois. N'importe qui dans ton radar alors? Quelqu'un que tu crois d'attirant?"
+    Ad "Je vois. Y a-t-il quelqu'un dans ton radar alors? Quelqu'un que tu trouves attirant?"
 
 # game/adine1.rpy:602
 translate french _call_skipcheck_10_6b0e1c03:
 
     # Ad "Oh, it's a shame you can't be with them now, then."
-    Ad "Oh, dommage que tu ne peut pas être avec eux alors."
+    Ad "Oh, dommage que tu ne puisses pas être avec eux alors."
 
 # game/adine1.rpy:604
 translate french _call_skipcheck_10_d3b70432:
 
     # Ad "Or are you talking about someone you met here?"
-    Ad "Ou parle tu de quelqu'un que tu as rencontré ici?"
+    Ad "Ou parles-tu de quelqu'un que tu as rencontré ici?"
 
 # game/adine1.rpy:615
 translate french tellme_98edf115:
 
     # Ad "Oh, I know what that means."
-    Ad "Oh, je sais ce que ca veut dire."
+    Ad "Oh, je vois ce que ça veut dire."
 
 # game/adine1.rpy:617
 translate french tellme_195fa010:
 
     # Ad "Is there anyone on your radar at least? Someone you think is kinda cute?"
-    Ad "Il a tu n'importe qui dans ton radar au moins? Quelqu'un que tu pense qui est un peu mignon?"
+    Ad "As-tu quelqu'un dans ton radar au moins? Quelqu'un que tu trouves un peu mignon?"
 
 # game/adine1.rpy:621
 translate french tellme_1e619300:
 
     # Ad "I see. Anyone on your radar, at least? Someone you think is cute?"
-    Ad "Je vois. N'importe qui dans ton radar au moins? Quelqu'un que tu crois ètre mignon?"
+    Ad "Je vois. Y a-t-il quelqu'un dans ton radar au moins? Quelqu'un que tu trouves mignon?"
 
 # game/adine1.rpy:627
 translate french tellme_6b0e1c03:
 
     # Ad "Oh, it's a shame you can't be with them now, then."
-    Ad "Oh, dommage que tu ne peut pas être avec eux alors."
+    Ad "Oh, dommage que tu ne puisses pas être avec eux alors."
 
 # game/adine1.rpy:629
 translate french tellme_d3b70432:
 
     # Ad "Or are you talking about someone you met here?"
-    Ad "Ou parle tu de quelqu'un que tu as rencontré ici?"
+    Ad "Ou parles-tu de quelqu'un que tu as rencontré ici?"
 
 # game/adine1.rpy:638
 translate french choiceb_6b0e1c03:
 
     # Ad "Oh, it's a shame you can't be with them now, then."
-    Ad "Oh, dommage que tu ne peut pas être avec eux alors."
+    Ad "Oh, dommage que tu ne puisses pas être avec eux alors."
 
 # game/adine1.rpy:640
 translate french choiceb_d3b70432:
 
     # Ad "Or are you talking about someone you met here?"
-    Ad "Ou parle tu de quelqu'un que tu as rencontré ici?"
+    Ad "Ou parles-tu de quelqu'un que tu as rencontré ici?"
 
 # game/adine1.rpy:647
 translate french choiceb_2c403123:
 
     # Ad "No one at all? I don't believe you. I think you just don't want to tell me. So, who is the lucky person?"
-    Ad "Personne du tout? Je ne te crois pas. Je crois que tu ne veut pas juste me dire. Alors, qui est la personne chanceuse?"
+    Ad "Personne du tout? Je ne te crois pas. Je pense que tu ne veux juste pas me le dire. Alors, qui est l'heureux élu?"
 
 # game/adine1.rpy:655
 translate french choicec_9c4bb8e8:
@@ -930,19 +930,19 @@ translate french choicec_9c4bb8e8:
 translate french choicec_41d17e99:
 
     # Ad "Would it happen to be someone I know?"
-    Ad "Ce serait tu quelqu'un que je connait?"
+    Ad "Est-ce que ce serais quelqu'un que je connais?"
 
 # game/adine1.rpy:661
 translate french choicec_8d8ef32c:
 
     # Ad "Oh. Well, that's a shame."
-    Ad "Oh. Bien, dommage."
+    Ad "Oh. Dans ce cas, c'est dommage."
 
 # game/adine1.rpy:663
 translate french choicec_9e4b6bcd:
 
     # Ad "No one from around here catch your eye?"
-    Ad "Personne par ici attire ton attention?"
+    Ad "Personne ici n'attire ton attention?"
 
 # game/adine1.rpy:669
 translate french choicec_9c4bb8e8_1:
@@ -954,7 +954,7 @@ translate french choicec_9c4bb8e8_1:
 translate french choicec_41d17e99_1:
 
     # Ad "Would it happen to be someone I know?"
-    Ad "Ce serait tu quelqu'un que je connait?"
+    Ad "Est-ce que ce serais quelqu'un que je connais?"
 
 # game/adine1.rpy:680
 translate french choicee_e3b23a3c:
@@ -978,25 +978,25 @@ translate french choicee_43ebd9ef:
 translate french nextsc_e17aa8de:
 
     # c "I'm not sure how many questions that was, but I'm sure it's not your turn anymore."
-    c "Je ne suis pas certain combien de questions c'était, mais je suis sur que ce n'est plus ton tour."
+    c "Je ne sais plus combien de questions tu as posée, mais je suis sûr que ce n'est plus ton tour."
 
 # game/adine1.rpy:701
 translate french nextsc_fe09c854:
 
     # Ad "Are we even still playing this game?"
-    Ad "Ont joue encore à ce jeu?"
+    Ad "On est encore en train de jouer à ce jeu?"
 
 # game/adine1.rpy:708
 translate french nextsc_98f9c271:
 
     # Ad "That's true. You seem to be enjoying it, though."
-    Ad "C'est vrai. Tu parait t'amuser en tout cas."
+    Ad "C'est vrai. Tu as l'air de t'amuser en tout cas."
 
 # game/adine1.rpy:714
 translate french nextsc_9603eefb:
 
     # Ad "You and me both."
-    Ad "Toi et moi tout les deux."
+    Ad "Toi et moi."
 
 # game/adine1.rpy:719
 translate french nextsc_45100626:
@@ -1008,13 +1008,13 @@ translate french nextsc_45100626:
 translate french nextsc_e5da73be:
 
     # c "You know, why don't we make this a little more interesting while we're at it?"
-    c "Tu sais, pourquoi ne pas rendre ca un peu plus intéresant pendant qu'on y est?"
+    c "Tu sais, pourquoi ne pas rendre ça un peu plus intéresant tant qu'on y est?"
 
 # game/adine1.rpy:723
 translate french nextsc_4a6d854a:
 
     # Ad "What do you suggest?"
-    Ad "Qu'est ce que tu suggère?"
+    Ad "Qu'est ce que tu suggères?"
 
 # game/adine1.rpy:724
 translate french nextsc_27c37c55:
@@ -1032,19 +1032,19 @@ translate french nextsc_8f23b6c8:
 translate french nextsc_20ec6614:
 
     # c "We continue asking questions, but if one of us doesn't want to answer the question, we have to do something the other person tells us to."
-    c "Ont continue à ce poser des questions, mais si ont ne veut pas répondre a la question, ont a besoin de faire ce que l'autre personne dit de faire."
+    c "On continue de se poser des questions, mais si on ne veut pas répondre à la question, on doit faire quelque chose que l'autre personne nous dit de faire."
 
 # game/adine1.rpy:729
 translate french nextsc_bf87ec10:
 
     # Ad "I don't even know what kind of dare I would make you do."
-    Ad "Je ne sais même pas quel genre de défi que je te pourrait faire."
+    Ad "Je ne sais même pas quel genre de défi que je pourrais te donner."
 
 # game/adine1.rpy:730
 translate french nextsc_4453a933:
 
     # c "It could be something that would make me uncomfortable, or something you'd like to see me do."
-    c "Ca pourrait être de quoi qui me mets incomfortable, ou quelque chose que tu voudrait me voir faire."
+    c "Ça pourrait être quelque chose qui me met mal à l'aise, ou quelque chose que tu voudrais me voir faire."
 
 # game/adine1.rpy:734
 translate french nextsc_0532a010:
@@ -1056,19 +1056,19 @@ translate french nextsc_0532a010:
 translate french nextsc_206795eb:
 
     # c "Well, keep in mind that revenge might be coming quicker than you think, so don't ask someone for anything you wouldn't do yourself."
-    c "Bien, rappele toi que la revanche peut venir plus rapide que tu le crois, alors ne demande pas à quelqu'un de faire quelque chose que tu ne fera pas toi même."
+    c "Et bien, rappelle-toi que la revanche peut venir plus vite que tu penses, alors ne demande pas à quelqu'un de faire quelque chose que tu ne ferais pas toi-même."
 
 # game/adine1.rpy:739
 translate french nextsc_b0e643f3:
 
     # Ad "Got it. So, who's first?"
-    Ad "Vu. Alors, qui commence?"
+    Ad "Compris. Alors, qui commence?"
 
 # game/adine1.rpy:740
 translate french nextsc_24285aa7:
 
     # c "You asked the last few questions, so it's only fair if I start."
-    c "Tu a posé les dernières questions, alors c'est juste si je commence."
+    c "C'est toi qui a posé les dernières questions, donc ce serais normal que je commence."
 
 # game/adine1.rpy:744
 translate french nextsc_58abfc7c:
@@ -1092,13 +1092,13 @@ translate french nextsc_4e50fccb:
 translate french nextsc_6c279b9e:
 
     # Ad "You wouldn't misuse that knowledge, would you?"
-    Ad "Tu n'abuseras pas de cette information, n'est ce pas?"
+    Ad "Tu ne feras pas mauvais usage de cette in formation, n'est ce pas?"
 
 # game/adine1.rpy:757
 translate french nextsc_a59f8f81:
 
     # c "Of course not."
-    c "Bien sur que non."
+    c "Bien sûr que non."
 
 # game/adine1.rpy:761
 translate french nextsc_d40811d3:
@@ -1122,7 +1122,7 @@ translate french nextsc_a3e8b670:
 translate french nextsc_87f87efc:
 
     # c "You know, you aren't very good at this game."
-    c "Tu sais, tu n'est pas très bon a ce jeu."
+    c "Tu sais, tu n'es pas très bonne à ce jeu."
 
 # game/adine1.rpy:766
 translate french nextsc_a0221976:
@@ -1140,7 +1140,7 @@ translate french nextsc_5101fbef:
 translate french nextsc_8a18e93a:
 
     # Ad "Hmm, let me think..."
-    Ad "Hmm, laisse moi penser..."
+    Ad "Hmm, laisse moi réfléchir..."
 
 # game/adine1.rpy:775
 translate french nextsc_f0510f43:
