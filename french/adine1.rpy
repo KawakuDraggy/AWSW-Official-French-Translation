@@ -78,7 +78,7 @@ translate french adine1_56e644c8:
 translate french adine1_1cc03842:
 
     # Ad "Here's your order. Sorry, it got a little wet, but it should still be okay."
-    Ad "Voilà votre commande. Désolé, elle est un peu mouillée, mais ça devrais encore être bon."
+    Ad "Voilà votre commande. Désolé, elle est un peu trempée, mais ça devrais encore être bon."
 
 # game/adine1.rpy:94
 translate french adine1choice1_e6f972e8:
@@ -300,7 +300,7 @@ translate french _call_skipcheck_10_9fafc86f:
 translate french _call_skipcheck_10_24fbdd31:
 
     # Ad "I thought you just did."
-    Ad "Je pensais que vous l'aviez fait."
+    Ad "Je pensais que ça t'intéressait un peu."
 
 # game/adine1.rpy:302
 translate french _call_skipcheck_10_a0052a82:
@@ -798,7 +798,7 @@ translate french _call_skipcheck_10_4f76bc1a:
 translate french _call_skipcheck_10_a9cad82b:
 
     # Ad "Oh, you've got \"Price and Prayer\". You should totally read that one."
-    Ad "Oh, tu as \"Prix et Prière"\. Tu devrais vraiment lire celui-là."
+    Ad "Oh, tu as \"Prix et Prière\". Tu devrais vraiment lire celui-là."
 
 # game/adine1.rpy:560
 translate french _call_skipcheck_10_d98d0cd8:
@@ -1146,7 +1146,7 @@ translate french nextsc_8a18e93a:
 translate french nextsc_f0510f43:
 
     # Ad "There was this one time when I was still a teenager. I was messing around and wanted to try out a new flying maneuver: a barrel roll. Needless to say, it ended badly."
-    Ad "Il avait cette une fois lorsque j'était encore une adolescente. Je m'amusait et je voulait essayer une nouvelle maneuvre de vol: un tonneau. Pas besoin de dire que ca c'est mal fini."
+    Ad "Il y a eu une fois quand j'étais encore adolescente. Je m'amusais et je voulais essayer une nouvelle manoeuvre de vol: un tonneau. Pas besoin de dire que ça s'est mal fini."
 
 # game/adine1.rpy:776
 translate french nextsc_b917eced:
@@ -1158,13 +1158,13 @@ translate french nextsc_b917eced:
 translate french nextsc_895e7591:
 
     # Ad "No, the roll itself went fine, but I lost control after that and plunged right to the ground."
-    Ad "Non, le tonneau même c'est bien passé, mais j'ai perdu contrôle après ca et plongé directement par terre."
+    Ad "Non, le tonneau en lui-même s'est bien passé, mais j'ai perdu le contrôle juste après et je j'ai plongé sur le sol."
 
 # game/adine1.rpy:778
 translate french nextsc_b2517d74:
 
     # c "Oh, were you hurt?"
-    c "Oh, t'es tu blessé?"
+    c "Oh, t'es tu blessée?"
 
 # game/adine1.rpy:780
 translate french nextsc_54608f68:
